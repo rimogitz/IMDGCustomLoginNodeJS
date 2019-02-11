@@ -1,0 +1,16 @@
+{
+  "name": "imdgcustomloginnodejs",
+  "version": "1.0.0",
+  "description": "node module to connect imdg with custom credentials",
+  "main": "LoginToImdgWithCustomCredentials.js",
+  "dependencies": {
+    "hazelcast-client": "0.6.1",
+    "express": "^4.14.0",
+    "superagent": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
